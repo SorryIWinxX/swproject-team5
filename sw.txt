@@ -1,0 +1,3 @@
+“Estoy aprendiendo Git en la Asignatura para control de versiones”
+Estoy entendiendo Git en la Asignatura
+“Este texto se agregó desde la rama Development”
